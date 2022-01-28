@@ -1,4 +1,6 @@
-package com.example;
+package com.arrowFletchingProgress;
+
+import com.arrowFletchingProgress.ExamplePlugin;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
